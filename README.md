@@ -3,9 +3,9 @@
 
 ## 🌍 Programming languages:
 <p>
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="js" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
   <img alt="nodejs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-935116?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="java" width="60px" src="https://img2.freepng.fr/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" />
 </p>
 
 ## ⚙️ Programming Tools:
