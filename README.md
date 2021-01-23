@@ -15,3 +15,5 @@
   <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
    <img alt="intellij" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png"/>
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6" />
