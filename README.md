@@ -16,3 +16,7 @@
    <img alt="intellij" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
 </p>
 
+## 📕 Learning:
+<p>
+  <img alt="golang" src="https://img.shields.io/badge/-golang-3399CC?style=flat-square&logo=go&logoColor=white"/>
+</p>
